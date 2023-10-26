@@ -2,6 +2,10 @@
 .vs/
 
 /[Ss]aved/
+/[Pp]latforms/
+/[Ii]ntermediate/
+/[Dd]erivedDataCache/
+/[Ss]aved/
 
 # Compiled Object files
 *.slo
